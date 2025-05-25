@@ -49,5 +49,8 @@
     <a href="mailto:Raven_Last_Kray@tutamail.com">
       <img src="https://img.shields.io/badge/-TutaMail-2C3E50?logo=protonmail&logoColor=white&style=for-the-badge">
     </a>
+    <a href="https://mastodon.social/@trimklas">
+  <img src="https://img.shields.io/badge/-Mastodon-6364FF?logo=mastodon&logoColor=white&style=for-the-badge">
+</a>
   </div>
 </div>
